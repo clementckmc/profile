@@ -77,6 +77,11 @@ h2 {
   padding-left: 0px;
 }
 
+.prog-icon {
+  font-size: 46px;
+  margin: 8px;
+}
+
 a:-webkit-any-link {
   text-decoration: none;
 }
